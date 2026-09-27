@@ -3,9 +3,9 @@ import 'dotenv/config';
 export default {
   "expo": {
       "name": "Cloth Tracking",
-    "slug": "clothtracking",
+    "slug": "clothTracking",
     "owner": "narasimhaexpo6s-team", // 👈 Added your exact organization account name here
-    "scheme": "clothtracking",
+    "scheme": "clothTracking",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -65,7 +65,7 @@ export default {
       "orientation": "portrait"
     },
     "experiments": {
-      "baseUrl": "/clothtracking"
+      "baseUrl": "/clothTracking"
     },
     "plugins": [
       [
